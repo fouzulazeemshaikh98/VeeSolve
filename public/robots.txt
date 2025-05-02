@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.veesolve.com
+
+# Sitemaps
+Sitemap: https://www.veesolve.com/sitemap.xml

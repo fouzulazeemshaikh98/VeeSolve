@@ -153,8 +153,8 @@ export default function ContactPage() {
                       </Button>
                     </div>
                   ) : (
-                    <form onSubmit={handleSubmit} className="space-y-6">
-                      <div className="space-y-2">
+                    <form onSubmit={handleSubmit}  action="https://formsubmit.co/nabeel@veesolve.com" method="POST" className="space-y-6">
+                      <div className="space-y-2"> 
                         <Label htmlFor="name" className="text-white">
                           Name
                         </Label>
