@@ -61,7 +61,7 @@ export default function ServicesPage() {
               </CardContent>
               <CardFooter>
                 <Button variant="link" className="text-purple-400 p-0 hover:text-purple-300">
-                  Learn more
+                 <Link href="/contact">Let's Discuss</Link>
                   <ArrowRight className="ml-2 h-4 w-4" />
                 </Button>
               </CardFooter>
@@ -98,7 +98,7 @@ export default function ServicesPage() {
               </CardContent>
               <CardFooter>
                 <Button variant="link" className="text-blue-400 p-0 hover:text-blue-300">
-                  Learn more
+                  <Link href="/contact">Let's Discuss</Link>
                   <ArrowRight className="ml-2 h-4 w-4" />
                 </Button>
               </CardFooter>
@@ -137,8 +137,8 @@ export default function ServicesPage() {
               </CardContent>
               <CardFooter>
                 <Button variant="link" className="text-cyan-400 p-0 hover:text-cyan-300">
-                  Learn more
-                  <ArrowRight className="ml-2 h-4 w-4" />
+                <Link href="/contact">Let's Discuss</Link>
+                <ArrowRight className="ml-2 h-4 w-4" />
                 </Button>
               </CardFooter>
             </Card>
@@ -176,8 +176,8 @@ export default function ServicesPage() {
               </CardContent>
               <CardFooter>
                 <Button variant="link" className="text-teal-400 p-0 hover:text-teal-300">
-                  Learn more
-                  <ArrowRight className="ml-2 h-4 w-4" />
+                <Link href="/contact">Let's Discuss</Link>
+                <ArrowRight className="ml-2 h-4 w-4" />
                 </Button>
               </CardFooter>
             </Card>
@@ -215,8 +215,8 @@ export default function ServicesPage() {
               </CardContent>
               <CardFooter>
                 <Button variant="link" className="text-green-400 p-0 hover:text-green-300">
-                  Learn more
-                  <ArrowRight className="ml-2 h-4 w-4" />
+                <Link href="/contact">Let's Discuss</Link>
+                <ArrowRight className="ml-2 h-4 w-4" />
                 </Button>
               </CardFooter>
             </Card>
@@ -254,8 +254,8 @@ export default function ServicesPage() {
               </CardContent>
               <CardFooter>
                 <Button variant="link" className="text-yellow-400 p-0 hover:text-yellow-300">
-                  Learn more
-                  <ArrowRight className="ml-2 h-4 w-4" />
+                <Link href="/contact">Let's Discuss</Link>
+                <ArrowRight className="ml-2 h-4 w-4" />
                 </Button>
               </CardFooter>
             </Card>

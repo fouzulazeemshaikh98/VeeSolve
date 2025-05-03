@@ -113,9 +113,7 @@ export default function ContactPage() {
                       <h3 className="font-medium text-white">Office</h3>
                       <p className="text-sm text-gray-300 mt-1">Our Office</p>
                       <address className="text-cyan-400 not-italic text-sm mt-2">
-                        123 AI Boulevard
-                        <br />
-                        Tech District
+                        Danet Area
                         <br />
                         Abu Dhabi, United Arab Emirates
                       </address>
