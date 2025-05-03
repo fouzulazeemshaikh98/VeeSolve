@@ -947,7 +947,7 @@ export default function Home() {
       <Chatbot />
 
       {/* Back to top button */}
-      <AnimatePresence>
+      {/* <AnimatePresence>
         {showScrollButton && (
           <motion.button
             onClick={scrollToTop}
@@ -972,7 +972,7 @@ export default function Home() {
             </svg>
           </motion.button>
         )}
-      </AnimatePresence>
+      </AnimatePresence> */}
     </div>
   )
 }
